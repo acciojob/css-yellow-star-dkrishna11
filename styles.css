@@ -2,6 +2,9 @@
 .star{
 	width:200px;
 	height:200px;
+	border-bottom:100px solid rgb(255, 255, 0);
+	border-left:50px solid rgba(0,0,0,0);
+	border-right:50px solid rgba(0,0,0,0);
 	background-color:yellow;
 	clip-path: polygon(33% 22%, 4% 23%, 18% 46%, 5% 71%, 33% 71%, 50% 95%, 67% 70%, 91% 71%, 79% 46%, 94% 22%, 65% 22%, 49% 0);
 }
